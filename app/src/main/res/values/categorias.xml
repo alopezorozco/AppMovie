@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorias">
+        <item>Acción</item>
+        <item>Aventuras</item>
+        <item>Ciencia Ficción</item>
+        <item>Romance</item>
+        <item>Terror</item>
+        <item>Documentales</item>
+    </string-array>
+</resources>
